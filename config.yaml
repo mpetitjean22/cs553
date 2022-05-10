@@ -1,0 +1,23 @@
+Shard: 
+  Name: shard0
+  Index: 0
+  Address: 127.0.0.2:8080
+  Replicas: [127.0.0.22:8080]
+---
+Shard: 
+  Name: shard1
+  Index: 1
+  Address: 127.0.0.3:8080
+  Replicas: [127.0.0.33:8080]
+---
+Shard: 
+  Name: shard2
+  Index: 2
+  Address: 127.0.0.4:8080
+  Replicas: [127.0.0.44:8080]
+---
+Shard: 
+  Name: shard3 
+  Index: 3
+  Address: 127.0.0.5:8080
+  Replicas: [127.0.0.55:8080]
